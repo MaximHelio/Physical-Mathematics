@@ -1,0 +1,10 @@
+# Ignore PowerPoint (ppt) files
+*.ppt
+*.pptx
+
+# Ignore other files and directories
+# Add more patterns if needed
+node_modules/
+build/
+dist/
+*.log
